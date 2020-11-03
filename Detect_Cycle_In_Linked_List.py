@@ -1,4 +1,4 @@
-# Matthew Macario Merging two sorted Linked Lists
+# Matthew Macario Detecting a Cycle in a Linked Lists
 # For reference:
 #class Node(object):
 #   def __init__(self, data=None, next_node=None):
